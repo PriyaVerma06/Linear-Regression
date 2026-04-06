@@ -12,10 +12,6 @@ This repository is part of the ML Arena family, a set of 5 dedicated repositorie
 - ML-Arena-4 - K-Means Clustering
 - ML-Arena-5 - Neural Network
 
-## Problem Focus
-
-Build and analyze a regression model that predicts concrete compressive strength from material composition features.
-
 ## Dataset
 
 - File: `dataset.csv`
@@ -49,7 +45,7 @@ ML-Arena-1/
 1. Fork this folder as its own repo (ML-Arena-1).
 2. Clone your fork and create a branch.
 3. Pick one issue.
-4. Work in only one notebook based on track:
+4. Work in only one notebook per issue based on track:
    - `exploration/exploration.ipynb`
    - `library/training.ipynb`
    - `scratch/training.ipynb`
