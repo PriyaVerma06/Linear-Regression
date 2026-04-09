@@ -1,4 +1,4 @@
-# Contributing to ML Arena 1
+# Contributing to Linear-Regression
 
 This repo contains the Linear Regression problem.
 
@@ -45,8 +45,8 @@ This repo contains the Linear Regression problem.
 2. Clone your fork and enter the repo folder:
 
 ```bash
-git clone https://github.com/<your-username>/ML-Arena-1.git
-cd ML-Arena-1
+git clone https://github.com/<your-username>/Linear-Regression.git
+cd Linear-Regression
 ```
 
 3. Create a branch:
